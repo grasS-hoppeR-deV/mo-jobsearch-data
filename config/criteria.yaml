@@ -1,0 +1,64 @@
+# Maude's job criteria (saved from the dashboard).
+searches:
+- digital marketing
+- marketing assistant
+- marketing associate
+pages_per_search: 2
+hard_filters:
+  title_must_include_any:
+  - marketing
+  - brand
+  - content
+  - communications
+  - social media
+  - seo
+  - campaign
+  - growth
+  - events
+  title_exclude_any:
+  - sales
+  - account executive
+  - sdr
+  - bdr
+  - business development
+  - inside sales
+  - director
+  - vp
+  - vice president
+  - head of
+  - principal
+  - senior
+  - sr
+  - staff
+  - intern
+  - internship
+  - chief
+  - counsel
+  - summer associate
+  description_exclude_any:
+  - commission only
+  - 100% commission
+  - commission-only
+  company_exclude: []
+  work_types:
+  - Remote
+  - Hybrid
+  - In-Office
+  - Remote or Hybrid
+  min_salary: 45000
+preferences: |
+  Candidate: recent MBA (Dec 2025) with a BBA in Marketing, based in Austin, TX.
+  Target: entry-level to early-career MARKETING roles, mainly digital marketing,
+  marketing assistant, and marketing associate positions.
+  Strong plus: healthcare, pharma, life sciences, or clinical research companies
+  (she holds CNPR and HCIR certifications and works as a Clinical Research Coordinator).
+  Also good: B2B tech/SaaS marketing teams that hire early-career marketers.
+  Dealbreakers: any sales or quota-carrying role (SDR, BDR, account executive,
+  sales rep), commission-based pay, roles needing 5+ years of marketing experience.
+  Any work arrangement is fine (remote, hybrid, or in-office in the Austin area).
+  Salary floor: $45k base.
+scoring:
+  shortlist_threshold: 70
+  max_ai_scores_per_run: 40
+model: claude-opus-5-5
+searches_off: []
