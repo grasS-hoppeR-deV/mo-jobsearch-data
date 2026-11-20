@@ -8,24 +8,22 @@
 Read both documents. Everything must be true and in your voice.
 
 ## What was tailored
-- Rewrote the Professional Summary to lead with the Marketing BBA, outreach, CRM/database, and pipeline experience, and to surface FDA/ICH-GCP knowledge and CNPR/HCIR certifications as a fit for LighthouseAI's pharma regulatory clients.
-- Moved Education (BBA in Marketing, MBA) above experience and folded Relevant Coursework into it, since the marketing degree is the candidate's most direct marketing credential.
-- Kept the ResearchTex role first but reordered bullets to emphasize regulatory compliance, data integrity, and managing multiple projects — matching 'attention to detail', 'multiple projects', and the pharma/regulatory industry plus.
-- Condensed clinical-trial bullets, dropping operational details (informed consent, investigational product accountability) less relevant to a marketing role.
-- Led the Recruiting & Operations Director entry with database maintenance and metrics tracking to mirror the posting's CRM data and database quality duties; kept the notification-automation project.
-- Emphasized outreach, pipeline maintenance, follow-up, and event planning in the Assistant Recruiting Manager role as transferable to lead research, lead qualifying, and inbound lead management.
-- Reordered Skills to put CRM, pipeline, prospecting, and Microsoft Office first; described Office as 'Microsoft Office 365' per the original resume.
-- Kept all titles, dates, employers, and contact header exactly as in the master resume.
+- Set the headline to the posting title, MARKETING ASSOCIATE, and rewrote the summary around social content scheduling, website updates, CRM accuracy, and regulatory knowledge relevant to a pharma solutions company.
+- Kept the Research Source role with compliance-focused bullets (FDA, ICH-GCP, regulatory submissions, multiple studies at once) because the posting lists pharmaceutical, healthcare, or regulatory experience as a plus and stresses accuracy and multitasking.
+- Focused Cutco bullets on content calendars, Instagram campaigns, campaign messaging and performance monitoring, and CRM data upkeep; left out high-volume recruiting, sales, and MS Project details per tailoring notes. Shown as one entry with its master title and dates.
+- Condensed Jauregui bullets to design, marketing collateral, website updates, and communications/tracker work; dropped purely administrative and recruiting duties.
+- Added CNPR and HCIR certifications to the education line since the posting is pharma-related; omitted GPAs and honors for space.
+- Ordered skills to mirror the posting: content scheduling, social platforms, CRM data, Microsoft Office/Excel, and website updates first.
+- Cover letter ties regulatory experience to LighthouseAI's licensing business and is open that CRM experience is in Conveyour, not Salesforce.
 
 ## Gaps vs. the posting (not claimed in the documents)
-- 2+ years in a dedicated marketing role: no prior role carries a marketing title; experience is in sales, recruiting, and clinical research.
-- Email marketing campaigns and platforms (Pardot, Mailchimp, HubSpot, or similar): not on the resume.
-- Social media content creation and scheduling: not on the resume.
-- Salesforce (strongly preferred): CRM experience is limited to Conveyour.
-- Website updates and blog publishing: no CMS or web content experience listed.
-- Content writing samples: written communication is claimed in the posting requirements but the resume has no portfolio or content examples to demonstrate it.
-- Explicit lead qualification for marketing/B2B sales: closest experience is candidate screening and consumer sales prospecting.
-- Work authorization without sponsorship is not stated on the resume; confirm when applying.
+- Email marketing: no experience managing email campaigns or using platforms such as Pardot, Mailchimp, or HubSpot.
+- Salesforce: CRM experience is with Conveyour only; Salesforce is strongly preferred.
+- Blog publishing: resume shows supporting website content updates but not publishing blog content or managing a website.
+- Marketing lead research and qualification: sourcing and screening at Cutco was for recruiting candidates, not B2B marketing leads; no inbound lead routing experience shown.
+- 2+ years in a similar marketing role: marketing experience comes from a marketing support role (2026) and a recruiting-focused social media program (2021–2024), not a dedicated B2B marketing role.
+- Microsoft Word and PowerPoint are not explicitly listed (Excel and Office 365 are).
+- Work authorization without sponsorship is not stated in the resume; confirm on the application.
 
 ## LinkedIn connection notes (send these yourself)
 - No hiring contacts named. Check the posting's 'Meet the hiring team' section on LinkedIn and add them with `python -m jobhunt contact`.

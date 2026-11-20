@@ -1,66 +1,73 @@
 # Maude O’Brien
-Austin, TX | (210) 355-0808 | maudeobrien@gmail.com | www.linkedin.com/in/maudobrientxst
+Austin, TX | (210) 355-0808 | maudeobrien@gmail.com
 
 ## Professional Summary
-MBA graduate with a BBA in Marketing and hands-on experience in sales, recruiting, team leadership, and clinical research coordination. Skilled in high-volume outreach, relationship-building, event planning, and tracking metrics for leadership. Recognized for competitiveness, adaptability, and resilience in fast-paced environments.
+Marketing and administrative professional with an MBA and BBA in Marketing. Experience designing print advertisements and signage, producing event invitations and collateral, coordinating Instagram campaigns and content calendars, and supporting website updates. Brings Adobe Photoshop and Canva skills, organized project records, vendor and client communication, and practical scheduling skills to a marketing team.
 
 ## Professional Experience
 
-### Clinical Research Coordinator — ResearchTex (Nov 2025 – Present)
-- Manage Phase I–IV clinical trials, including regulatory submissions, subject recruitment, informed consent, protocol implementation, data entry into EDC systems, adverse event reporting, investigational product accountability, and sponsor communication.
-- Ensure compliance with ICH-GCP, FDA regulations, and company SOPs while maintaining high standards of data integrity and participant safety.
-- Manage multiple studies simultaneously with strong attention to detail and documentation accuracy.
-- Work with EDC systems and EMR platforms; interact directly with patients.
+### Jauregui Architect Interiors Construction | Austin, TX
+Office Manager / Executive Assistant (Marketing Support) | 2026
+- Designed print advertisements and signage in Adobe Photoshop and Canva, including magazine ad materials for Architectural Digest and Austin Home.
+- Created invitations, advertisements, and marketing materials supporting company events and client-facing initiatives.
+- Supported website content updates.
+- Coordinated vendor, client, and leadership correspondence.
+- Supported the owner and head of sales with scheduling, correspondence, and day-to-day administrative needs.
+- Managed client and vendor communications, intake, supplies, and deliveries for a 35-person organization.
+- Maintained Excel and Google Sheets trackers, administrative records, and schedules while balancing marketing and office priorities.
+- Coordinated office and recruiting needs for the company.
 
-### Recruiting & Operations Director — Cutco (Aug 2025 – Nov 2025)
-- Built rapport with interviewees and new representatives through 1-on-1 discussions about the referral program.
-- Coordinated materials, participation, and schedules for interviews, training, and events.
-- Provided general team support through knowledge of various positions.
+### Research Source | Austin, TX
+Clinical Research Coordinator | 2025
+- Prepared reports, correspondence, and project documentation for leadership with attention to accuracy and confidentiality.
+- Coordinated schedules, maintained data tracking, and followed up on action items across multiple stakeholders.
+- Managed Phase I–IV clinical trials, including regulatory submissions, subject recruitment, informed consent, protocol implementation, data entry into EDC systems, adverse event reporting, investigational product accountability, and sponsor communication.
+- Ensured compliance with ICH-GCP, FDA regulations, and company SOPs while maintaining data integrity and participant safety.
+- Managed multiple studies simultaneously with attention to detail and documentation accuracy.
+- Worked with EDC systems and EMR platforms; interacted directly with patients.
+
+### Vector Marketing (Cutco) | Austin, TX
+Recruiting & Operations Director / Social Media Program Lead | 2021–2024
+- Created content calendars and coordinated Instagram recruiting campaigns using organic outreach and paid advertising.
+- Developed campaign messaging and outreach messaging, and monitored campaign performance and response to guide adjustments.
+- Trained team members on social outreach systems and maintained accurate CRM data and candidate/recruiting records (CRM: Conveyour).
 - Tracked recruitment metrics, maintained applicant databases, and provided regular updates to leadership.
-- Managed software development to automate sales-process notifications to management and sales associates (MS Project).
+- Coordinated materials, participation, and schedules for interviews, training, and events; managed event planning for recruitment and retention.
+- Sourced, screened, and scheduled interviews for hundreds of entry-level candidates through campus, career-fair, and referral outreach.
+- Built rapport with interviewees and new representatives through one-on-one conversations; maintained pipelines through relationship management and proactive follow-up.
+- Trained and mentored recruiters and sales representatives; led performance analysis and reported outcomes to senior leadership.
+- Managed a software project to automate sales-process notifications to management and sales associates (MS Project).
+- Earlier roles at Cutco in this period: Sales Representative, Assistant Manager, Assistant Recruiting Manager (prospecting, one-on-one demonstrations, customer follow-up, onboarding).
 
-### Assistant Recruiting Manager — Cutco (Feb 2023 – Jul 2023)
-- Sourced, screened, and scheduled interviews for hundreds of entry-level candidates via campus and referral outreach.
-- Assisted in training and mentoring an additional recruiter.
-- Maintained talent pipelines through relationship management and proactive follow-up.
-- Assisted with interview coordination, candidate tracking, and follow-up communication.
-- Engaged in career-fair recruiting and referral-based hiring programs.
-- Managed event planning for job recruitment and retention.
+## Selected Marketing Project
 
-### Assistant Manager — Cutco (Jun 2021 – Oct 2021)
-- Conducted interviews and managed onboarding for new representatives.
-- Trained and mentored a team of sales reps in sales techniques and service quality.
-- Led performance analysis and reported outcomes to senior leadership.
-- Facilitated sales and onboarding pipelines, including team training.
+### Hampton Road Designs | Freelance Campaign Strategy
+- Developed lifestyle brand positioning, audience targets, content pillars, and a recommended posting cadence.
+- Designed sample social posts and reels and presented the proposed creative direction to the client.
 
-### Sales Representative — Cutco (Mar 2021 – Jun 2021)
-- Prospected new customers and scheduled initial appointments.
-- Closed sales via one-on-one demonstrations and needs analysis.
-- Performed post-sale customer service and satisfaction follow-up.
-
-## Education
+## Education and Professional Development
 - Texas State University — Master of Business Administration (MBA), December 2025, GPA 3.50/4.00
-- Texas State University — Bachelor of Business Administration (BBA), Marketing, December 2023, GPA 3.70/4.00
+- Texas State University — Bachelor of Business Administration (BBA) in Marketing, December 2023, GPA 3.70/4.00
+- Marketing certificate coursework (in progress)
+- Relevant coursework: AI for Business Managers (applying AI to business scenarios); International Marketing (study-abroad trip to Dublin, Ireland, meeting with globally run companies)
 
-## Skills
-- CRM software (Conveyour)
-- Pipeline development and tracking
-- Candidate sourcing and screening
-- Event planning and coordination
-- Microsoft Excel and Office 365; MS Project
-- Data analysis (R); AI tools
-- ICH-GCP and FDA regulatory knowledge; EDC and EMR systems
+## Skills and Tools
+- Marketing: marketing coordination, campaign coordination, social campaign support, content calendars, print advertising, website updates, event and vendor communication, project tracking
+- Design and social: Adobe Photoshop, Canva, Instagram, TikTok
+- Office and data: Microsoft Office (Excel, Office 365), Google Workspace (Google Sheets), MS Project, CRM systems (Conveyour), data analysis (R), AI tools
+- Clinical/regulatory: ICH-GCP and FDA regulatory knowledge; EDC and EMR systems
 
 ## Certifications & Memberships
 - Certified National Pharmaceutical Representative (CNPR)
 - Healthcare Certified Industry Representative (HCIR)
-- National Society of Leadership and Success (NSLS) — Inducted Member
+- National Society of Leadership and Success (NSLS), inducted member
 
 ## Honors & Awards
-- Dean’s List, Texas State University — Spring 2022
-- Dean’s List, San Antonio College — Fall 2020, Spring 2021, Fall 2021
-- Certificate of Academic Excellence, Texas State University — Fall 2022, Spring 2023
+- Dean’s List, Texas State University: Spring 2022
+- Dean’s List, San Antonio College: Fall 2020, Spring 2021, Fall 2021
+- Certificate of Academic Excellence, Texas State University: Fall 2022, Spring 2023
 
-## Relevant Coursework
-- AI for Business Managers — applying AI to real-world business scenarios
-- International Marketing — cultural impacts on marketing functions, policies, and analyses (study-abroad trip to Dublin, Ireland, meeting with globally run companies)
+## Notes for tailoring (not resume content)
+- Show Cutco as one entry with the title and dates above (2021–2024), not as separate roles.
+- For marketing roles, lead with design, social media, content and website work; keep sales and high-volume recruiting details brief or leave them out.
+- Clinical/regulatory details, certifications and GPAs are optional extras: use them only when the posting is healthcare, pharma or regulatory related, or space allows.

@@ -8,24 +8,23 @@
 Read both documents. Everything must be true and in your voice.
 
 ## What was tailored
-- Split experience into 'Events, Outreach & Operations Experience' (Cutco) and 'Additional Experience' (ResearchTex) so the most marketing- and events-relevant work leads; all dates kept as in the master resume.
-- Rewrote the summary to foreground event coordination, outreach, metrics reporting, multi-project management, and AI/data tools, which mirror the posting's priorities.
-- Reordered Cutco bullets to lead with event and logistics coordination, metrics tracking and leadership reporting, and the MS Project automation project, which maps to the posting's process-improvement expectation.
-- Condensed the ResearchTex role to three bullets emphasizing attention to detail, documentation accuracy, concurrent projects, and stakeholder (sponsor) communication, which are the transferable QA and organization skills; trimmed clinical-only detail such as informed consent and IP accountability.
-- Reordered Skills to put event planning, AI tools, data analysis, and Excel/MS Project first; clinical skills moved last.
-- Moved the AI for Business Managers and International Marketing coursework under Education to support the marketing and AI requirements while saving space.
-- Condensed Certifications, Memberships, and Honors into one compact section to keep the resume close to one page.
-- The cover letter names the tool gap (Splash, Zuddl, Salesforce, Monday.com) directly and frames it with real examples of learning new platforms, rather than implying experience.
+- Set the headline to the posting's title, REGIONAL MARKETING ASSOCIATE, and rewrote the summary around event coordination, campaign execution, tracking, and AI/data tools to mirror the posting's priorities.
+- Led the Jauregui role with event materials and website updates (closest to registration pages, landing pages, and event assets), followed by design, vendor coordination, and tracker maintenance.
+- Condensed Cutco into one entry with the exact title and dates, keeping only paid/organic Instagram campaigns, event planning, and metrics/CRM reporting; omitted high-volume recruiting and sales details per tailoring notes.
+- Reduced Research Source to two transferable bullets (reporting accuracy, data tracking, multi-stakeholder follow-up) and dropped clinical/regulatory specifics since the posting is not healthcare related.
+- Kept the Hampton Road Designs project to show campaign strategy and social creative skills.
+- Added AI for Business Managers coursework to the education line to support the posting's daily AI-use requirement; omitted GPAs, certifications, and honors to keep the resume to one page.
+- Reordered skills to put event/vendor coordination, campaign coordination, paid social, AI tools, and tracking tools first.
+- In the cover letter, stated plainly that she has not used Splash, Zuddl, Salesforce, or Monday.com rather than implying experience, and noted her Central time zone location.
 
 ## Gaps vs. the posting (not claimed in the documents)
-- 2+ years in field marketing, regional marketing, or events: the candidate's event planning was for recruiting and retention within a sales organization. Total Cutco tenure is about 16 months across three stints, and none of it was a formal marketing role.
-- No experience with Splash, Zuddl, Salesforce, or Monday.com. The only CRM listed is Conveyour.
-- No evidence of building registration pages, emails, landing pages, or campaign workflows.
-- No paid social, ABM (account-based marketing), or B2B/tech campaign experience.
-- No budget operations experience: tracking program expenses, managing purchase orders, or coordinating invoices with Finance.
-- No vendor management experience is listed.
-- Willingness to travel about 40% is not stated in the resume. The candidate should confirm this herself; it was not asserted in the documents.
-- No exposure to the observability, software, or open-source industry.
+- 2+ years specifically in field marketing, regional marketing, or events: her event and campaign work was part of broader administrative and recruiting roles, not a dedicated field/regional marketing role.
+- No experience with Splash, Zuddl, Salesforce, or Monday.com (only Conveyour CRM and MS Project are listed).
+- No stated experience building registration pages, emails, landing pages, or campaign workflows in marketing automation tools; only general website content updates.
+- No experience with budget operations: tracking program expenses, managing purchase orders, or coordinating invoices with Finance.
+- No experience with ABM (account-based marketing) or B2B/technology marketing.
+- No formal post-event or campaign reporting using standard templates; reporting experience is recruitment metrics and leadership updates.
+- Willingness to travel approximately 40% is not addressed in the resume and should be confirmed by the candidate.
 
 ## LinkedIn connection notes (send these yourself)
 - No hiring contacts named. Check the posting's 'Meet the hiring team' section on LinkedIn and add them with `python -m jobhunt contact`.
