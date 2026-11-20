@@ -4,6 +4,12 @@ searches:
 - marketing assistant
 - marketing associate
 pages_per_search: 2
+jsearch:
+  enabled: true
+  location: Austin, TX
+  include_remote: true
+  date_posted: week
+  max_requests_per_month: 180
 hard_filters:
   title_must_include_any:
   - marketing
